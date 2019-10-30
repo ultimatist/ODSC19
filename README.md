@@ -1,4 +1,4 @@
-# ODSC19 FIVE WORLD-CLASS VISUALIZATIONS AND WHAT WE CAN LEARN FROM THEM
+# ODSC West 2019: FIVE WORLD-CLASS VISUALIZATIONS AND WHAT WE CAN LEARN FROM THEM
 
 >What separates the world's best data visualizations from the rest? Join [Metis](https://www.thisismetis.com) Senior Data Scientist [Jonathan Balaban](https://www.linkedin.com/in/jbalaban/) as he highlights amazing visuals and dissects best practices in visualization and storytelling. We'll cover open-source platforms and code that enable similar, compelling visuals we can use to share our work.
 
